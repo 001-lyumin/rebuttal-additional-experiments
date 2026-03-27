@@ -44,5 +44,5 @@
 
 | GPT-2 Architecute Training and Evaluation |
 | :---: |
-| <img src="top1_convergence.png" width="500"> |
+| <img src="GPT-2-top1_convergence.png" width="750"> |
 | *Fig 11: GPT-2 Architecute Training loss and Evaluation loss by cosine with top-1 eigenvector* |
