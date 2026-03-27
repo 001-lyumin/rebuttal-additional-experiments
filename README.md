@@ -24,6 +24,6 @@ As shown in the figure below:
 
 ![Figure 9: Task_2_W_final](figures_for_random_initialization/Task_2_W_final.png)
 
-![Figure 10: Task_2_loop_error](figures_for_random_initializationn/Task_2_loop_comparison.png)
+![Figure 10: Task_2_loop_error](figures_for_random_initialization/Task_2_loop_comparison.png)
 
 
