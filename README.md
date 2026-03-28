@@ -50,4 +50,4 @@
 | GPT-2 Architecute without LN, Training and Evaluation |
 | :---: |
 | <img src="figures_for_GPT-2-top1_convergence/GPT-2-top1_No_LN.png" width="750"> |
-| *Fig 11: GPT-2 Architecute without LN, Training loss and Evaluation loss by cosine with top-1 eigenvector* |
+| *Fig 12: GPT-2 Architecute without LN, Training loss and Evaluation loss by cosine with top-1 eigenvector* |
