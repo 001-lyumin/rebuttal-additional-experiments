@@ -29,7 +29,7 @@
 | Final V Matrix | Final W Matrix |
 | :---: | :---: |
 | <img src="figures_for_random_initialization/Task_2_V_final.png" width="350"> | <img src="figures_for_random_initialization/Task_2_W_final.png" width="350"> |
-| *Fig 8: Task 2 V heatmap n=32, d=16* | *Fig 9: Task 2 V heatmap n=32, d=16* |
+| *Fig 8: Task 2 V heatmap n=32, d=16* | *Fig 9: Task 2 W heatmap n=32, d=16* |
 
 | Loop Error Comparison |
 | :---: |
