@@ -51,3 +51,14 @@
 | :---: |
 | <img src="figures_for_GPT-2-top1_convergence/GPT-2-top1_No_LN.png" width="750"> |
 | *Fig 12: GPT-2 Architecute without LN, Training loss and Evaluation loss by cosine with top-1 eigenvector* |
+
+
+
+---
+
+## 4. Repeated five random results for Task 1
+
+| Training Loss | Test Loss |
+| :---: | :---: |
+| <img src="figures_for_random_initialization/Task_2_training_loss.png" width="350"> | <img src="figures_for_random_initialization/Task_2_test_loss.png" width="350"> |
+| *Fig 13: Task 2 Training Loss* | *Fig 14: Task 2 Test Loss* |
