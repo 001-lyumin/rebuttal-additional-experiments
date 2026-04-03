@@ -56,7 +56,7 @@
 
 ---
 
-## 4. Repeated five random seeds results
+## 4. Repeated ten random seeds results
 
 | Training Loss | Test Loss |
 | :---: | :---: |
