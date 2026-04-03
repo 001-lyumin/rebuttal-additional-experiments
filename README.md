@@ -56,9 +56,9 @@
 
 ---
 
-## 4. Repeated five random results for Task 1
+## 4. Repeated five random seeds results
 
 | Training Loss | Test Loss |
 | :---: | :---: |
-| <img src="figures_for_random_initialization/Task_2_training_loss.png" width="350"> | <img src="figures_for_random_initialization/Task_2_test_loss.png" width="350"> |
-| *Fig 13: Task 2 Training Loss* | *Fig 14: Task 2 Test Loss* |
+| <img src="figures_for_random_initialization/combined_training_loss_mean_var.png" width="350"> | <img src="figures_for_random_initialization/combined_test_loss_mean_var.png" width="350"> |
+| *Fig 13: Training Loss (Repeated random seeds)* | *Fig 14: Test Loss (Repeated random seeds)* |
